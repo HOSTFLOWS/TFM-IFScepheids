@@ -1,6 +1,6 @@
 # TFM-Cepheids
 
-A continuación se detalla el contenido de este repositorio, perteneciente al Trabajo de Fin de Máster de Sara Muñoz Torres, titulado "Testeo de la calibración de estrellas Cefeidas con la metalicidad en las galaxias del proyecto SH0ES".
+A continuación se detalla el contenido de este repositorio, perteneciente al Trabajo de Fin de Máster de Sara Muñoz Torres, titulado "**Testeo de la calibración de estrellas Cefeidas con la metalicidad en las galaxias del proyecto SH0ES**".
 
 
 ## Breve descripción 📖
@@ -38,7 +38,7 @@ NGC7250_new/ NGC7250_new.V500.rscube.fits
              ic130c020_drz.fits
              
 UGC09391/ UGC09391.V500.rscube.fits
-          ic1360uzq_drz.fits
+          hst_12880_59_wfc3_uvis_f555w_sci.fits 
           adj_spectrum_UGC9391.ipynb
 ```          
 
